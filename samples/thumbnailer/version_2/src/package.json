@@ -1,0 +1,8 @@
+{
+  "name": "thumbnailer",
+  "version": "1.0.0",
+  "dependencies": {
+    "jimp": "0.6.1",
+    "@alicloud/mns": "1.0.0"
+  }
+}

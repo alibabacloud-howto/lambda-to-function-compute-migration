@@ -1,0 +1,7 @@
+{
+  "name": "output-notification",
+  "version": "1.0.0",
+  "dependencies": {
+    "@alicloud/mns": "1.0.0"
+  }
+}

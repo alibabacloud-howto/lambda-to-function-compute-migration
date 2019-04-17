@@ -1,0 +1,7 @@
+.idea/
+*.iml
+target/
+.terraform
+*.tfstate
+*.backup
+node_modules/

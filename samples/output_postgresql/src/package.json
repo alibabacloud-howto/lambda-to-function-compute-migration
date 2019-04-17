@@ -1,0 +1,7 @@
+{
+  "name": "postgresql-sample",
+  "version": "1.0.0",
+  "dependencies": {
+    "pg": "7.9.0"
+  }
+}
